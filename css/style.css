@@ -66,7 +66,7 @@ img:hover{opacity:0.8;}
 	padding-bottom: 75%;
 	border: 5px solid #fff;
 	background: url("../images/alexandjon.jpg") scroll no-repeat center/cover;
-	float: right;
+	float: right
 }
 
 /* Footer
@@ -105,7 +105,7 @@ p.copyright{
 	.logo a{font-size: 2em;}
 	.main{padding-top:15%;}
 	.portfolio img{margin-bottom: 10%;}
-	img.avatar{margin-top: 15%;}
+	.avatar{margin: auto;margin-top: 15%;float: none}
 	h2.bio{font-size: 2.5em;}
 	p.bio{font-size: 1.25em;color: #3f7f7c;}
 	ul.social li a{font-size: .75em;}
